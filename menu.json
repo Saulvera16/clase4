@@ -1,0 +1,124 @@
+{
+"menu":[
+{ 
+  "nombre": "Pastel",
+  "descripcion": "Masa de harina y relleno dulce, frutas confitadas, crema, etc.",
+  "precio": 300,
+  "imagen":"1.jpg"
+},
+{
+	"nombre": "Pozole",
+  "descripcion": "Contiene cabeza de puerco, maiz pozolero, acompañado de lechuga en cortes finos, rabanos, cebolla, media crema, y queso cotija.",
+  "precio": 85,
+  "imagen":"2.jpg"
+},
+{
+	"nombre": "Tortas",
+  "descripcion": "Contiene Carne de preferencia, mayonesa, crema, tomate, aguacate, frijoles.",
+  "precio": 40,
+  "imagen":"3.jpg"
+},
+{
+"nombre": "Tacos",
+  "descripcion": "Contiene Carne de su preferecia, especias y verduras.",
+  "precio": 140,
+  "imagen":"4.jpg"
+},
+{
+"nombre": "Hamburguesas",
+  "descripcion": "Carne de res, con lechuga, tomate, queso amarillo, especias.",
+  "precio": 110,
+  "imagen":"5.jpg"
+},
+{
+"nombre": "Hot dogs",
+  "descripcion": "Contiene salchicha frita, cebolla, tomate, mayonesa y catsup.",
+  "precio": 45,
+  "imagen":"6.jpg"
+},
+{
+"nombre": "Helado Napolitano",
+  "descripcion": "Compuesto por tres capas de chocolate, vainilla y fresa.",
+  "precio": 60,
+  "imagen":"7.jpg"
+},
+{
+"nombre": "Agua de limón",
+  "descripcion": "Compuesto por jugo de limón, agua y azucar.",
+  "precio": 30,
+  "imagen":"8.jpg"
+},
+{
+"nombre": "Agua de horchata",
+  "descripcion": "Compuesto por chufas, agua y azucar.",
+  "precio": 30,
+  "imagen":"9.jpg"
+},
+{
+"nombre": "Sopa",
+  "descripcion": "Contiene carne o pollo, verduras y especias.",
+  "precio": 55,
+  "imagen":"10.jpg"
+},
+{
+"nombre": "Enchiladas",
+  "descripcion": "Contiene salsa, crema, cebolla, aguacate, queso.",
+  "precio": 60,
+  "imagen":"11.jpg"
+},
+{
+"nombre": "Enfrijoladas",
+  "descripcion": "Contiene aguacate, queso, salsa(opcional).",
+  "precio": 60,
+  "imagen":"12.jpg"
+},
+{
+"nombre": "Panchos",
+  "descripcion":"Contiene mayonesa, catsup, mostaza.",
+  "precio": 50,
+  "imagen":"13.jpg"
+},
+{
+"nombre": "Manzana con chamoy",
+  "descripcion":"Contiene chamoy, tajin.",
+  "precio": 25,
+  "imagen":"14.jpg"
+},
+{
+"nombre": "Mango con chamoy",
+  "descripcion":"Contiene chamoy, tajin.",
+  "precio": 40,
+  "imagen":"15.jpg"
+},
+{
+"nombre": "Frappés",
+  "descripcion":"Se prepara con agua, espresso, azúcar, leche y hielo, sus sabores pueden ser chocolate, vainilla, fresa.",
+  "precio": 85,
+  "imagen":"16.jpg"
+},
+{
+"nombre": "Agua de jamaica",
+  "descripcion":"Contiene flor de jamaica, agua y azucar.",
+  "precio": 30,
+  "imagen":"17.jpg"
+},
+{
+"nombre": "Café",
+  "descripcion":"Se compone de los granos tostados y molidos de los frutos de la planta del café.",
+  "precio": 50,
+  "imagen":"18.jpg"
+},
+{
+"nombre": "Galletas",
+  "descripcion":"Compuesta por harina de trigo, huevos, azúcar, mantequilla o aceites vegetales o grasas animales.",
+  "precio": ,
+  "imagen":"19.jpg"
+},
+{
+"nombre": "Hot cakes",
+  "descripcion":"Contiene Harina, huevos, leche, mantequilla, vainilla.",
+  "precio": 90,
+  "imagen":"20.jpg"
+}
+]
+}
